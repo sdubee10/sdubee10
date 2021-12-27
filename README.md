@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sdubee10)
+[![sdubee10's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sdubee10&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sdubee10)
+
+
 -->
