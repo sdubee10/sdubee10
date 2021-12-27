@@ -3,6 +3,12 @@
 <!--
 **sdubee10/sdubee10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
+
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sdubee10)
-[![sdubee10's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sdubee10&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sdubee10)
 
 
 -->
