@@ -6,8 +6,6 @@
 [![sdubee10's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sdubee10&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sdubee10)
 
 
-![sdubee10's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdubee10&show_icons=true&theme=bear)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdubee10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
