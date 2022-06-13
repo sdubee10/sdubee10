@@ -8,9 +8,9 @@ B.S in Computer Science , 2016-2022
 
 ### 🏢 Work Experiences
 - Kakaobank - Data Scientist (2022.02. ~ 2022.04)
-  - Graph Nueral Network 활용한 Card Transaction Fraud Detection Model 개발
+  - Graph Nueral Network 기반 Card Transaction Fraud Detection Model 연구
 - Robot & Virtual Lab - Research Engineering (2019.12. 2022.01)
-  - Artificial Neural Network 활용한 Public Health Prediction Model(국민 체력 예측 모델) 개발
+  - Artificial Neural Network 기반 Public Health Prediction Model(국민 체력 예측 모델) 연구
   - "자전거 가상 주행 환경" 개발 (Unreal Engine 4)
   - "경찰 교육 시뮬레이터" 개발 (Unreal Engine 4)
 
