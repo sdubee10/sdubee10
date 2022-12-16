@@ -7,8 +7,10 @@
 B.S in Computer Science , 2016-2022
 
 ### 🏢 Work Experiences
+- BANK (DBA & ML)
+  - Financial Data Migration Project(2022.11 ~ Now)
 - Kakaobank - Data Scientist (2022.02. ~ 2022.04)
-  - Graph Nueral Network 기반 Card Transaction Fraud Detection Model 연구
+  - Graph Nueral Network 기반 - Card Transaction Fraud Detection Model
 - Robot & Virtual Lab - Research Engineering (2019.12. 2022.01)
   - Artificial Neural Network 기반 Public Health Prediction Model(국민 체력 예측 모델) 연구
   - "자전거 가상 주행 환경" 개발 (Unreal Engine 4)
@@ -19,10 +21,6 @@ B.S in Computer Science , 2016-2022
 ### ✏ Paper
 
 ### ✨ Skills
-Python3 </br> 
-Jupyter Notebook </br> 
-Data Analysis </br> 
-Machine Learning </br> 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
