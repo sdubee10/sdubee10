@@ -8,7 +8,8 @@ B.S in Computer Science , 2016-2022
 
 ### 🏢 Work Experiences
 - BANK (DBA & ML)
-  - Financial Data Migration Project(2022.11 ~ Now)
+  - LLM (2024.08 ~ NOW)
+  - DW Integration Project(2022.11 ~ 2024.06)
 - Kakaobank - Data Scientist (2022.02. ~ 2022.04)
   - Graph Nueral Network 기반 - Card Transaction Fraud Detection Model
 - Robot & Virtual Lab - Research Engineering (2019.12. 2022.01)
