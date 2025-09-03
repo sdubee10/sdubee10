@@ -28,7 +28,6 @@
     src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,postgres,mysql,redis,linux,bash,git,githubactions,vscode&perline=12"
     alt="Tech stack icons" />
   <br/>
-  <sub>[ AI·데이터 ] &nbsp;·&nbsp; [ DW/DB ] &nbsp;·&nbsp; [ 클라우드·DevOps ]</sub>
 </div>
 
 <!-- skillicons에 없는 스택은 배지로 보강 -->
@@ -64,56 +63,12 @@
 
 ### 🧭 Skill Focus
 
-<table>
-  <tr>
-    <td width="160"><b>Python / SQL</b></td>
-    <td>
-      <!-- 배경(회색) + 채움(초록) -->
-      <svg width="100%" height="12" viewBox="0 0 100 12">
-        <rect x="0" y="0" width="100" height="12" fill="#e5e7eb" rx="6" />
-        <rect x="0" y="0" width="90"  height="12" fill="#22c55e" rx="6" />
-      </svg>
-      <sub>ETL·자동화·데이터 분석</sub>
-    </td>
-    <td width="48" align="right"><b>90%</b></td>
-  </tr>
-
-  <tr>
-    <td><b>DW/DB</b><br/><sub>(Vertica·PostgreSQL·Oracle)</sub></td>
-    <td>
-      <svg width="100%" height="12" viewBox="0 0 100 12">
-        <rect width="100" height="12" fill="#e5e7eb" rx="6" />
-        <rect width="80"  height="12" fill="#3b82f6" rx="6" />
-      </svg>
-      <sub>운영·튜닝·정책</sub>
-    </td>
-    <td align="right"><b>80%</b></td>
-  </tr>
-
-  <tr>
-    <td><b>Cloud & DevOps</b><br/><sub>(AWS·Docker·K8s·GHA)</sub></td>
-    <td>
-      <svg width="100%" height="12" viewBox="0 0 100 12">
-        <rect width="100" height="12" fill="#e5e7eb" rx="6" />
-        <rect width="70"  height="12" fill="#a855f7" rx="6" />
-      </svg>
-      <sub>배포·CI/CD·모니터링</sub>
-    </td>
-    <td align="right"><b>70%</b></td>
-  </tr>
-
-  <tr>
-    <td><b>Data & ML</b><br/><sub>(PyTorch·Pandas·Airflow·Spark)</sub></td>
-    <td>
-      <svg width="100%" height="12" viewBox="0 0 100 12">
-        <rect width="100" height="12" fill="#e5e7eb" rx="6" />
-        <rect width="70"  height="12" fill="#f59e0b" rx="6" />
-      </svg>
-      <sub>모델·파이프라인</sub>
-    </td>
-    <td align="right"><b>70%</b></td>
-  </tr>
-</table>
+| 분야 | 레벨 | 메모 |
+|:--|:---------------------------:|:--|
+| **Python / SQL** | `█████████░` | ETL·자동화·데이터 분석 |
+| **DW/DB (Vertica·PostgreSQL·Oracle)** | `████████░░` | 운영·튜닝·정책 |
+| **Cloud & DevOps (AWS·Docker·K8s·GHA)** | `███████░░░` | 배포·CI/CD·모니터링 |
+| **Data & ML (PyTorch·Pandas·Airflow·Spark)** | `███████░░░` | 모델·파이프라인 |
 
 
 ---
