@@ -28,7 +28,7 @@
     src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,postgres,mysql,redis,linux,bash,git,githubactions,vscode&perline=12"
     alt="Tech stack icons" />
   <br/>
-  <sub>AI/데이터 · DW/DB · 클라우드/DevOps</sub>
+  <sub>[ AI·데이터 ] &nbsp;·&nbsp; [ DW/DB ] &nbsp;·&nbsp; [ 클라우드·DevOps ]</sub>
 </div>
 
 <!-- skillicons에 없는 스택은 배지로 보강 -->
