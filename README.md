@@ -1,7 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsdubee10&count_bg=%2379C83D&title_bg=%23555555&icon=grav.svg&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### Machine Learning Engineer / Data Scientist
-
+### Machine Learning Engineer / Data Engineer
 
 ### 👩‍🎓 Education
 B.S in Computer Science , 2016-2022
@@ -11,15 +8,11 @@ B.S in Computer Science , 2016-2022
   - LLM (2024.08 ~ NOW)
   - DW Integration Project(2022.11 ~ 2024.06)
 - Kakaobank - Data Scientist (2022.02. ~ 2022.04)
-  - Graph Nueral Network 기반 - Card Transaction Fraud Detection Model
+  - Graph Nueral Network - Card Transaction Fraud Detection Model
 - Robot & Virtual Lab - Research Engineering (2019.12. 2022.01)
   - Artificial Neural Network 기반 Public Health Prediction Model(국민 체력 예측 모델) 연구
   - "자전거 가상 주행 환경" 개발 (Unreal Engine 4)
   - "경찰 교육 시뮬레이터" 개발 (Unreal Engine 4)
-
-### 🥇 Awards
-
-### ✏ Paper
 
 ### ✨ Skills
 
